@@ -15,14 +15,7 @@ No more running out of milk 🥛 or forgetting eggs 🍳 — GrocerySense predic
 ---
 
 ## 🔗 Live Demo  
-👉 [GrocerySense App](https://grocerysense-brmfrgnmugyp7uusuuyxuj.streamlit.app/)  
-
----
-
-## 📸 Screenshots  
-
-### Dashboard  
-![Dashboard Screenshot](./assets/dashboard.png)  
+👉 [GrocerySense App](https://grocerysense-fzpz3mubsjxxxkm8i5r3og.streamlit.app)  
 
 ---
 
@@ -47,5 +40,5 @@ Special thanks to friends who inspired and tested the app.
 ---
 
 ## 📬 Contact  
-For feedback or collaboration: [Your GitHub Profile](https://github.com/SaiMeghanath)  
+For feedback or collaboration: [Dharshini025](https://github.com/Dharshini025)
 
